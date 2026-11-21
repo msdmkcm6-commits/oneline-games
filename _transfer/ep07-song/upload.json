@@ -1,0 +1,22 @@
+{
+ "title": "Claude가 가사 쓰고 AI가 부른 노래 '집으로 걸어가' #shorts",
+ "description": "Claude가 가사를 쓰고 곡 설정을 정하고, 내 PC의 AI(ACE-Step 1.5)가 부른 노래 '집으로 걸어가'입니다.\n\n만든 과정\n1. Claude가 가사 25줄과 곡 설정 작성 (어쿠스틱 발라드, 허스키한 남자 목소리, 74 BPM, E장조, 3분 20초)\n2. 장르 샘플 3개 → 씨앗 바꾸기 3개 → 목소리 3개 → 전체곡 3개, 모두 12번 생성\n3. 듣고 고른 최종곡: 씨앗 344\n\n영상에 나온 부분은 브리지와 마지막 후렴입니다.\n다음엔 뭘 만들어 볼까요? 댓글로 남겨 주세요.\n\n가사·곡 설정: Claude\n작곡·노래: ACE-Step 1.5 (로컬 PC 생성)\n폰트: G마켓 산스\n\n#AI노래 #Claude #한줄제작소",
+ "tags": [
+  "AI노래",
+  "AI작곡",
+  "Claude",
+  "클로드",
+  "ACE-Step",
+  "AI음악",
+  "한줄제작소",
+  "어쿠스틱발라드",
+  "집으로걸어가",
+  "AI가부른노래",
+  "shorts"
+ ],
+ "categoryId": "10",
+ "privacyStatus": "private",
+ "publishAt": "2026-11-21T09:00:00Z",
+ "containsSyntheticMedia": true,
+ "madeForKids": false
+}
